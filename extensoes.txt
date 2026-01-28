@@ -1,0 +1,6 @@
+https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda tema de fundo
+https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap print
+https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons icones
+https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented sass
+
+configurações é ctrl + ,  >> editor de texto  >> cursor
