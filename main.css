@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    font-weight: 450;
 }
 
 .container{
@@ -108,6 +109,13 @@ li:hover > .submenu{
 
         .bootstrap{
             max-width: 3em;
+        }
+
+        .social-media-itens{
+            list-style: none;
+            display: flex;
+            justify-content: start;
+            gap: 30%;
         }
 
     }
