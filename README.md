@@ -1,5 +1,5 @@
 # Loja Nike - Site Responsivo
-![Status](https://img.shields.io/badge/Status-Em%20Processo-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge)
 ![Versão](https://img.shields.io/badge/Versão-1.2.0-blue?style=for-the-badge)
 
 ## Descrição
